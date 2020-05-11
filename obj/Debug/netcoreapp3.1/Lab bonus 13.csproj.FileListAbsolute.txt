@@ -1,0 +1,13 @@
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.csprojAssemblyReference.cache
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.csproj.CoreCompileInputs.cache
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.AssemblyInfoInputs.cache
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.AssemblyInfo.cs
+C:\Users\jmcki\source\repos\Lab bonus 13\bin\Debug\netcoreapp3.1\Lab bonus 13.exe
+C:\Users\jmcki\source\repos\Lab bonus 13\bin\Debug\netcoreapp3.1\Lab bonus 13.deps.json
+C:\Users\jmcki\source\repos\Lab bonus 13\bin\Debug\netcoreapp3.1\Lab bonus 13.runtimeconfig.json
+C:\Users\jmcki\source\repos\Lab bonus 13\bin\Debug\netcoreapp3.1\Lab bonus 13.runtimeconfig.dev.json
+C:\Users\jmcki\source\repos\Lab bonus 13\bin\Debug\netcoreapp3.1\Lab bonus 13.dll
+C:\Users\jmcki\source\repos\Lab bonus 13\bin\Debug\netcoreapp3.1\Lab bonus 13.pdb
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.dll
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.pdb
+C:\Users\jmcki\source\repos\Lab bonus 13\obj\Debug\netcoreapp3.1\Lab bonus 13.genruntimeconfig.cache
