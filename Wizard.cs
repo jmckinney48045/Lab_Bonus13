@@ -10,9 +10,10 @@ namespace Lab_bonus_13
         public Wizard()
         {
         }
-        public override string Play()
+        public override void Play()
         {
-            return $"(Name: {Name}) (Strength: {Strength}) (Intelligence: {Intelligence}) (Spell Number: {SpellNumber}) (Magical Energy: {MagicalEnergy})";
+            Console.WriteLine($"Name: {Name}; Strength: {Strength}; Intelligence: {Intelligence}; Spell Number: {SpellNumber}; Magical Energy: {MagicalEnergy}");
         }
     }
+
 }

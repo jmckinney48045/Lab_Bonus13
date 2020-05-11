@@ -9,9 +9,9 @@ namespace Lab_bonus_13
         public string Name { get; set; }
         public int Strength { get; set; }
         public int Intelligence { get; set; }
-        public virtual string Play()
+        public virtual void Play()
         {
-          return $"{Name}; {Strength}; {Intelligence}";
+            Console.WriteLine();
         }
     }
 }

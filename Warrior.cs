@@ -10,10 +10,12 @@ namespace Lab_bonus_13
         {
         }
         public string WeaponType { get; set; }
-        public override string Play()
+        public override void Play()
         {
-            return $"Name: {Name}; Strength: {Strength}; Intelligence: {Intelligence}; Weapon: {WeaponType}";
+            Console.WriteLine ($"Name: {Name}; Strength: {Strength}; Intelligence: {Intelligence}; Weapon: {WeaponType}");
         }
+      
+        
     }  
            
 }
